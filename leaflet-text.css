@@ -1,0 +1,84 @@
+.leaflet-text-marker {
+
+}
+
+.leaflet-text-marker > span{
+    text-shadow: 0 0 2px #FFFFFF;
+}
+
+.leaflet-color-red {
+    color: #D63E2A;
+}
+
+.leaflet-color-darkred {
+    color: #A23336;
+}
+
+.leaflet-color-lightred {
+    color: #FF8E7F;
+}
+
+.leaflet-color-orange {
+    color: #F69730;
+}
+
+.leaflet-color-beige {
+    color: #FFCB92;
+}
+
+.leaflet-color-green {
+    color: #72B026;
+}
+
+.leaflet-color-darkgreen {
+    color: #728224;
+}
+
+.leaflet-color-lightgreen {
+    color: #BBF970;
+}
+
+.leaflet-color-blue {
+    color: #38AADD;
+}
+
+.leaflet-color-darkblue {
+    color: #0067A3;
+}
+
+.leaflet-color-lightblue {
+    color: #8ADAFF;
+}
+
+.leaflet-color-purple {
+    color: #D252B9;
+}
+
+.leaflet-color-darkpurple {
+    color: #5B396B;
+}
+
+.leaflet-color-pink {
+    color: #FF91EA;
+}
+
+.leaflet-color-cadetblue {
+    color: #436978;
+}
+
+.leaflet-color-white {
+    color: #FFFFFF;
+    text-shadow: 0 0 2px #333;
+}
+
+.leaflet-color-gray {
+    color: #575757;
+}
+
+.leaflet-color-lightgray {
+    color: #A3A3A3;
+}
+
+.leaflet-color-black {
+    color: #303030;
+}
