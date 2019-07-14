@@ -3,6 +3,7 @@
 }
 
 .leaflet-text-marker > span{
+    white-space: nowrap;
     text-shadow: 0 0 2px #FFFFFF;
 }
 
